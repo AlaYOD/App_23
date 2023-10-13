@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btnSearch = findViewById(R.id.button);
         txtResult = findViewById(R.id.textView);
         spnBooks = findViewById(R.id.spinner2);
-
+// this is comment
        btnSearch.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View view) {

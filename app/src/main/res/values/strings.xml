@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github_project_Learn</string>
+    <string-array name="books">
+        <item>Database</item>
+        <item>Programing</item>
+        <item>Web</item>
+        <item>Cyper</item>
+    </string-array>
+</resources>
